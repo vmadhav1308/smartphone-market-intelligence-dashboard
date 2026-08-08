@@ -10,7 +10,7 @@ The dashboard enables users to explore smartphone pricing, RAM configurations, b
 
 ## Dashboard Preview
 
-*(Dashboard screenshot)*
+![Smartphone Market Intelligence Dashboard](Smartphone_Market_Intelligence_Dashboard_PowerBI.png.png)
 
 ---
 
